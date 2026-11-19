@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-19)
+
+- README: Deploy on Railway button for the published template (`zerobyte`). No change to the image or configuration.
+
 ## v0.44.2 (2026-11-19)
 
 First release of the Railway template.
