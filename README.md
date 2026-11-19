@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/zerobyte?utm_medium=integration&utm_source=button&utm_campaign=zerobyte)
+
 # Zerobyte on Railway
 
 A one-click [Railway](https://railway.com) template for [Zerobyte](https://zerobyte.app), a web UI that schedules, runs and monitors encrypted [restic](https://restic.net) backups, with retention policies, restores and notifications.
